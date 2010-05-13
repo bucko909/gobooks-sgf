@@ -1,0 +1,131 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+
+;B[]
+;W[]
+(;AW[fd][gd][ee]AB[ed][de][fe]C[Black to make a capture.]
+;B[ef])
+(;AW[ea][fb][fc]AB[da][eb][ec]C[Black to make a capture.]
+;B[fa])
+(;AW[aa][bb][db][cc]AB[ab][bc][bd][cf]C[Black to make a capture.]
+;B[ba])
+(;AW[fd][de][fe][ef][eg]AB[ed][gd][ee][ge][ff]C[Black to make a capture.]
+;B[fc])
+(;AW[ea][fa][ia][db][gb][hb][jd]AB[da][eb][fb][fd]C[Black to make a capture.]
+;B[ga])
+(;AW[fa][ha][eb][hb][fc][gc]AB[ia][fb][gb][ib][hc]C[Black to make a capture.]
+;B[ga])
+(;AW[dc][ec][fc][dd][gd][fe][ff]AB[ed][fd][de][ge][ef][gf][fg]C[Black to make a capture.]
+;B[ee])
+(;AW[gd][fe][ef][fg][fh]AB[fd][ee][ge][df][eg]C[Black to make a capture.]
+;B[ff])
+(;AW[hd][id][ee][fe][ge][df][eg]AB[ed][fd][gd][de][he][ff][gf]C[Black to make a capture.]
+;B[ef])
+(;AW[id][jd][ge][he][gf][fg][hg][gh]AB[gd][hd][fe][ie][ff][hf][if]C[Black to make a capture.]
+;B[gg])
+(;AW[fa][eb][gb][dc][gc][gd][ee][fe]AB[fb][hb][ec][fc][hc][fd][hd][ge]C[Black to make a capture.]
+;B[ga])
+(;AW[ea][db][fb][dc][fc][hc]AB[fa][eb][ec][ed][ef]C[Black to make a capture.]
+;B[da])
+(;AW[fd][ge][he][ef][gf][dg][fg][gg][eh]AB[gd][hd][fe][ie][ff][hf][hg][fh][gh]C[Black to make a capture.]
+;B[eg])
+(;AW[db][fb][gb][dc][fc][dd][fd][de][fe][df][ef][dg][fg]AB[ga][eb][hb][ec][gc][ed][gd][ee][ge][ff][hf][eg][eh]C[Black to make a capture.]
+;B[fa])
+(;AW[dc][cd][ed]AB[dd][ce][df]C[Black to avoid capture.]
+;B[de])
+(;AW[dc][cd][de][df]AB[ec][dd][ee][fg]C[Black to avoid capture.]
+;B[ed])
+(;AW[fa][eb][gb][ec][fd]AB[fb][fc][hc][gd][ge]C[Black to avoid capture.]
+;B[gc])
+(;AW[ia][hb][hc][id][jd][kd]AB[ha][gb][fc][cd][ed]C[Black to avoid capture.]
+;B[ga])
+(;AW[fc][gc][ed][hd][ge][ff]AB[fd][gd][de][fe][ef][eh]C[Black to avoid capture.]
+;B[ee])
+(;AW[da][eb][fb][dd]AB[ea][fa][ha][gb][gd]C[Black to avoid capture.]
+;B[ga])
+(;AW[gd][hd][fe][ie][if][hg]AB[id][ge][he][ff][hf][gg]C[Black to avoid capture.]
+;B[gf])
+(;AW[ea][fa][kc]AB[da][eb]C[Black to make a capture.]
+;B[fb])
+(;AW[ha][hb][kb][ic][jc]AB[gb][ib][jb][hc][hd]C[Black to play the best atari.]
+;B[ga])
+(;AW[ec][fc][gc][hd][id][de][ee][ff][hf][if]AB[fd][gd][fe][he][ef][eg][eh][gh][ih]C[Black to play the best atari.]
+;B[gf])
+(;AW[bc][cc][dd][ed][fd][ce][cf][ff]AB[dc][ec][fc][bd][cd][gd][de]C[Black to play the best atari.]
+;B[fe])
+(;AW[hc][ic][gd][kd][fe][ge][ff]AB[gc][fd][hd][ee][he][ef][hg]C[Black to play the best atari.]
+;B[fg])
+(;AW[ge][if][fg][gg][gh][ih][hi][ii]AB[ef][eg][hg][fh][hh][gi]C[Black to play the best atari.]
+;B[gf])
+(;AW[hd][id][ge][je][if][ig][gh][ih][hi]AB[fd][gd][ee][he][ie][hf][hg][hh]C[Black to play the best atari.]
+;B[gf])
+(;AW[he][gf][fg]AB[ie][hf][gg]C[Black to play the best atari.]
+;B[ge])
+(;AW[jc][id][kd][he][ff][gf]AB[ib][ic][gd][hd][ge]C[Black to play the best atari.]
+;B[ie])
+(;AW[cd][ed]AB[dc][de]C[Black to ensure everything is connected.]
+;B[dd])
+(;AW[fc][jc][gd][hd][kd]AB[hc][id][je][ke]C[Black to ensure everything is connected.]
+;B[ic])
+(;AW[cb][eb][gb][dc][hc][id]AB[bb][fb][bc][fc][cd][fd][de][fe]C[Black to stop white from connecting.]
+;B[fa])
+(;AW[eb][ec][de][ee][ef]AB[dc][cd][df][dg]C[Black to ensure everything is connected.]
+;B[ce])
+(;AW[gd][de][fe][he][ef][gf]AB[fc][fd][ee][ff][gg]C[Black to play.]
+;B[ge])
+(;AW[fe][ef][gf][fg][eh]AB[fd][ee][df][eg]TR[ff]C[White has just captured a ko at the marked stone, so that black may not immediately play there. Where should black play?]N[36]
+;B[dg])
+(;AW[da][fa][cb][eb][gb][ib][dc][hc][de]AB[ga][fb][kb][ec][fc][kc][gd][hd][id][jd]TR[gb]C[White just played the marked stone. Where should black respond?]
+;B[ea])
+(;AW[cb][eb][fc][ed][ee]AB[db][cc][ec][dd][gd][cf]C[Black to play.]
+;B[dc])
+(;AW[fc][fd][gd][ge][he][if][jf][hg]AB[gc][ed][hd][fe][ie][gf][hf]C[Black to play.]
+;B[fb])
+(;AW[cc][dc][cd][fd][de][ee][ef][ff][fg][gg][gh][hh][hi][ii]AB[dd][ed][ce][fe][df][gf][eg][hg][fh][ih][gi][ji][hj]TR[fd]C[White just played the marked stone. Where should black respond?]
+;B[ij])
+(;AW[ja][db][jb][dc][ec][fc][gc][hc][ic][jc]AB[ga][ia][eb][fb][gb][hb][ib]C[Black to live.]
+;B[ea])
+(;AW[ea][ga][ia][eb][fb][hb][ib][fc]AB[da][ja][db][jb][dc][gc][ic][jc][ed][fd][gd][hd]C[Black to kill.]
+;B[gb])
+(;AW[fa][ja][fb][jb][fc][jc][fd][jd][ge][he][ie]AB[ga][ia][gb][hb][ib][gc][ic][gd]C[Black to live.]
+;B[hd])
+(;AW[ge][he][ff][hf][fg][gg][ig][hh][ih]AB[fd][gd][hd][ee][ie][ef][if][eg][jg][eh][fh][jh][gi][hi][ii]C[Black to kill.]
+;B[gh])
+(;AW[ea][ia][eb][fb][gb][hb][ib]AB[da][ja][db][jb][dc][ec][fc][gc][hc][ic][jc]C[Black to kill.]N[45a]
+;B[ga])
+(;AW[ca][bb][cb][ac][bc]AB[da][db][dc][ad][bd][cd]C[Black to kill.]N[45b]
+;B[aa])
+(;AW[ge][he][ff][hf][fg][hg][fh][gh][hh][gi][hi]AB[gd][hd][ee][fe][ie][ef][if][eg][ig][eh][ih][fi][ii][fj][gj][hj]C[Is white alive or dead?]
+;C[White is dead. Black need not play here.])
+(;AW[dj][jk]AB[ec][cd]C[In what area should black play?]
+;B[jd]C[Since one corner is empty, black should play there.])
+(;AW[dc][de]AB[jd][dj]C[What area should black play in?]
+;B[jj]C[Since one corner is empty, black should play there.])
+(;AW[dc][dj][jj]AB[ic][kd][ck]TR[dj]C[What sort of move should black use to respond to the marked stone?]
+;B[dk]C[Black should push on one side or the other. This is bigger than any other move.])
+(;AW[dc][id][dj]AB[jd][kj][ik]C[How should black respond to the marked stone?]N[50]
+;B[ie]LB[ic:A][jc:B][je:C]C[This move or any of A, B or C is possible. It is not advisable to play elsewhere, or to try to make a jumping move.])
+(;AW[ed][fd][de][ge][ef][ff][gg]AB[gd][he][gf][hg]TR[ge]C[White just captured two stones with the marked move. Where shouldd black respond?]
+;B[fe])
+(;AW[fd][gd][id][ee][fe][he][gf][gg]AB[fc][gc][ed][hd][de][ef][ff]TR[ge]C[White just captured a stone at the marked spot. How should black respond?]
+;B[ge])
+(;AW[fc][ed][gd][hd][id][fe]AB[gc][hc][ic][jc][kd][ge][he][ie][je]TR[fd]C[Is the marked move legal for black?]N[53a]
+;C[No.])
+(;AW[ca][ea][fa][cb][db][eb][gb][gc][gd]AB[ga][bb][fb][cc][dc][ec][fc]TR[da]C[Is the marked move legal for black?]N[53b]
+;C[No.])
+(;AW[fa][ia][eb][gb][hb][ib][ec]AB[ha][fb][jb][fc][gc][hc][ic]TR[ga]C[Is the marked move legal for black?]
+;C[No.])
+(;AW[ge][he]AB[fd][gd][hd][fe][ie][gf][if][hg]TR[ge][he]C[Can black remove the marked stones from the board?]N[55a]
+;C[No.])
+(;AW[fa]AB[da][ga][db][eb][fb][gb]TR[fa]C[Can black remove the marked stones from the board?]N[55b]
+;C[No.])
+(;AW[ba][fa][ia][ja][bb][fb][hb][ib][bc][dc][gc][ic][jc][bd][cd][dd][hd][ce][he][df][gf][hf][if][dg][gg][hg][dh][hh][ih][di][hi][ii][cj][dj][gj][hj][dk][gk][ik][dl][el][gl][il][dm][gm][im][jm]AB[ca][ea][ka][cb][db][eb][jb][kb][cc][ec][fc][kc][ed][gd][jd][kd][de][ee][ge][ie][je][ef][ff][jf][eg][fg][ig][jg][eh][gh][jh][ei][gi][ji][ej][fj][ij][jj][ek][fk][jk][fl][jl][kl][fm][km]C[Where are the neutral points which need to be played before scoring?]
+;AW[em]AB[id]TR[id][em]C[The marked moves are the two neutral points.]N[ref])
+(;AW[ba][fa][ia][ja][bb][fb][hb][ib][bc][dc][gc][ic][jc][bd][cd][dd][hd][id][ce][he][df][gf][hf][if][dg][gg][hg][dh][hh][ih][di][hi][ii][cj][dj][gj][hj][dk][gk][ik][dl][el][gl][il][dm][gm][im][jm]AB[ca][ea][ka][cb][db][eb][jb][kb][cc][ec][fc][kc][ed][gd][jd][kd][de][ee][ge][ie][je][ef][ff][jf][eg][fg][ig][jg][eh][gh][jh][ei][gi][ji][ej][fj][ij][jj][ek][fk][jk][fl][jl][kl][em][fm][km]C[Who wins, and by how much? (No stones are captured.)]
+;C[Black wins 38 to 26.])
+(;AW[ca][fa][ha][bb][fb][hb][ib][bc][dc][gc][ic][jc][cd][dd][hd][id][ce][he][df][gf][if][jf][dg][gg][hg][jg][dh][hh][ih][di][hi][cj][dj][ej][hj][ij][dk][hk][ik][dl][el][gl][il][dm][gm][im][jm]AB[ea][ja][cb][db][eb][jb][cc][ec][fc][kc][ed][gd][jd][kd][de][ee][ge][ie][je][ef][ff][kf][eg][fg][kg][eh][gh][jh][ei][gi][ii][ji][fj][gj][jj][ek][fk][gk][jk][fl][jl][ll][em][fm][km]C[Both players must make defensive moves before they can play the neutral points. Where should they defend?]
+;AW[ba]AB[kb]LB[ka:B][lb:A]TR[ba][kb]C[The marked stones are the needed defensive moves. Black can also defend at A or B, but a solid connection is normally better.])
+(;AW[aa][fa][ja][ab][bb][fb][gb][ib][jb][bc][dc][gc][ic][lc][bd][dd][fd][id][ld][ce][fe][he][cf][df][gf][if][jf][cg][gg][hg][jg][dh][hh][ih][di][hi][cj][dj][ej][hj][ij][kj][dk][gk][ik][jk][dl][el][gl][il][dm][gm][im][jm]AB[ba][ca][ea][ka][cb][eb][kb][cc][ec][fc][jc][kc][cd][ed][hd][jd][de][ee][ie][je][ke][ef][ff][kf][dg][eg][fg][kg][eh][gh][jh][ei][gi][ii][ji][li][fj][gj][jj][ck][ek][fk][kk][lk][fl][jl][kl][em][fm][km]C[Which stones on the board should be removed after both players pass?]
+;TR[dc][lc][dd][hd][ld][kj][ck]C[All of the marked stones should be removed.])
+(;AW[da][ab][cb][eb][bc][cc][dc][ec][cd][ed][ee][fe][ef][gf][hf][mf][eg][hg][ig][lg][mg][eh][jh][kh][lh][di][ei][ej][jj][ek][gk][kk][fl][em][fm]AB[ea][fa][fb][ac][fc][ic][kc][ad][bd][fd][ld][ce][ge][he][ie][me][bf][cf][df][if][jf][kf][lf][dg][kg][ch][dh][ci][cj][dj][dk][dl][el][dm]C[Where is the last point of profit?]
+;B[de]))

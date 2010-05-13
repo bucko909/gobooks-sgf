@@ -1,0 +1,129 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+
+;B[]
+(;W[]
+(;AW[ha][fb][ib][gc][hc]AB[eb][gb][hb][fc]C[61. Black to make a capture.]
+;B[fa])
+(;AW[dd][fd][gd][ee][ef][ff][gf]AB[dc][fc][ed][hd][fe][ge]C[62. Black to make a capture.]
+;B[gc])
+(;AW[gb][ec][fc][hc][dd][hd][ee][he][df][gf][eg][fg]AB[cc][dc][gc][ed][fd][gd][ce][de][fe][ge][ff]C[63. Black to make the best capture.]
+;B[cd])
+(;AW[fa][ga][eb][gb][hb][dc][ic][ce]AB[ea][fb][ib][gc][hc]C[64. Black to make a capture.]
+;B[ha])
+(;AW[da][bb][db][fb][cc][ec][ed]AB[ca][ea][cb][dc][cd][dd]C[65. Black to make the best capture.]
+;B[eb])
+(;AW[ea][ia][db][hb][dc][ec][fc][hc][gd]AB[ca][da][ga][ha][cb][eb][fb][gb][ib][gc][jc][je]C[66. Black to make the best capture.]
+;B[ja])
+(;AW[ec][fc][gc][dd][gd][de][he][df][ff][hf][eg][hg][fh][gh]AB[eb][cc][dc][ed][fd][be][ee][ge][ef][gf][fg][gg][eh][hh]C[67. Black to make the best capture.]
+;B[dg])
+(;AW[db][fb][ec][cd][dd][ed][gd][fe]AB[cb][eb][gb][cc][dc][fc][fd]C[68. Black to make the best capture.]
+;B[fa])
+(;AW[cb][eb][fb][gb][dc][gc][hc][jc][hd][jd][ie]AB[ea][ga][db][hb][ec][fc][ic][dd][gd][id][he]C[69. Black to make the best capture.]
+;B[fa])
+(;AW[fd][gd][hd][de][ee][he][df][gf][dg][hg][ig][eh][fh][gh]AB[dd][ed][ce][fe][ge][ef][hf][if][cg][eg][fg][gg][dh]TR[gf]C[70. White just played the marked stone. How should black respond?]
+;B[cf])
+(;AW[gd][hd][id][jd][fe][ke][gf][jf][ig]AB[de][ge][he][ie][je][if][eg][gg][hg]TR[gf]C[71. How should black respond to the marked stone?]
+;B[hf])
+(;AW[gb][fc][hc][ed][hd][ee][fe][he][ie][jf][hg][ig]AB[gc][fd][gd][ge][ff][hf][if][fg][jg][kg][gh][hh][ih]TR[he]C[72. How should black respond to the marked stone?]
+;B[gf])
+(;AW[db][ec][fc]AB[eb][dc]C[73. Black to play the best atari.]
+;B[cb])
+(;AW[cc][fc][cd][ed][fd][de][bf][cf]AB[fb][dc][ec][gc][gd][fe][df][ef][cg]C[74. Black to play the best atari.]
+;B[dd])
+(;AW[cb][db][cc][ec][fc][ed]AB[eb][dc][ic][dd][fd][gd][ee]C[75. Black to play the best atari.]
+;B[fb])
+(;AW[ec][fd][gd][de][ee][hf][fg]AB[cc][dd][ed][be][fe][df]C[76. Black to play the best atari.]
+;B[ef])
+(;AW[bb][bc][dc][cd][de][cf]AB[cb][cc][dd][ed][fd][ee]C[77. Black to play the best atari.]
+;B[db])
+(;AW[eb][hb][ec][ic][fd][gd][id][ee][he]AB[fc][gc][hc][dd][ed][hd][de][ef]C[78. Black to play the best atari.]
+;B[ge])
+(;AW[db][cc][ec][fc][gc][cd]AB[eb][dc][dd][ed][df]C[79. Black to play the best atari.]
+;B[cb])
+(;AW[da][fa][db][dc][ec][gc][fd][gd][gf]AB[ea][eb][fb][hb][fc][ic][ed][ce][ee]C[80. Black to rescue his stones.]
+;B[gb])
+(;AW[fa][gb][dc][ec][gc][fd][fe][ef]AB[eb][fb][cc][fc][ed][ce][ee]C[81. Black to rescue his endangered stones.]
+;B[db])
+(;AW[cc][dc][cd][ed][gd][ce]AB[eb][ec][dd][de][ef]C[82. Black to play the best atari.]
+;B[fd])
+(;AW[ec][fc][gc][hc][dd][hd][de][fe][he][hf][dg][eg][fg][gg]AB[cc][dc][cd][ed][fd][gd][ce][ge][cf][ff]C[83. Black to rescue his endangered stones.]
+;B[df])
+(;AW[cb][cc][ec][dd][de]AB[db][dc][gc][ed][fd]C[84. Black to play the best atari.]
+;B[eb])
+(;AW[dc][fc][gc][cd][ed][hd][fe][he][gf]AB[eb][fb][gb][ec][hc][id][ie][hf][if]C[85. Black to play double atari.]
+;B[gd])
+(;AW[cb][gb][hb][bc][ec][fc][hc][ad][cd][dd][de]AB[fb][gc][bd][ed][fd][gd][be][ce][ee][bf][df]C[86. Black to play double atari.]
+;B[dc])
+(;AW[cb][bd][cd][ce][de][df][ef][eg]AB[cc][dd][be][ee][cf][ff][dg][fg][eh]C[87. Black to play the best atari.]
+;B[bc])
+(;AW[ia][ib][kb][hc][jc][ed][hd][jd][jf][ig]AB[hb][gc][ic][id][ie]C[88. Black to capture some white stones in a ladder.]
+;B[gd]LB[he:A]C[A does not work.])
+(;AW[ec][dd][fd][de][cf][cg][dh]AB[dc][cd][ce][fe][df][ef]C[89. Black to capture some white stones in a snapback.]
+;B[ed])
+(;AW[dd][ed][fe][ef][dg][eg]AB[dc][ec][cd][ce][ee][df]C[90. Black to capture some white stones in a snapback.]
+;B[fd])
+(;AW[ec][fc][cd][dd][fd][be][de][bf][cf][df][ef][ff]AB[eb][fb][gb][bc][cc][dc][ed][gd][ee][fe][he][gf][bg][cg][dg][eg][fg]TR[ge]C[91. If white plays the marked spot, where should black respond?]
+;CR[fe]AE[ed][ee])
+(;AW[gc][hc][ed][id][de][ge][he]AB[ec][fc][dd][gd][hd][ee][fe]TR[fd]C[92. If white plays the marked spot, where should black respond?]
+;CR[gd]AE[ed][hd])
+(;AW[cb][cc][fc][hc][cd][ed][fd][ce]AB[db][dc][ec][dd][ee][df][gf]TR[ce]C[93. How should black respond to the marked move?]
+;B[de])
+(;AW[bb][fb][hb][bc][gc][cd][hd][de][ee]AB[cb][db][ec][ge][he][ie]C[94. How can black connect all of his stones?]
+;B[fd])
+(;AW[fb][gb][hb][gc][dd][ed][fd][ce][df]AB[ha][ib][cc][dc][ec][hc][jc][cd][gd][hd]C[95. How can black connect all of his stones?]
+;B[fc])
+(;AW[da][cb][fb][gb][bc][cc][ic]AB[db][eb][dc][bd][cd][de][ee]C[96. How can black cut white into two separate groups?]
+;B[ea])
+(;AW[da][eb][ec][cd][ed][ee]AB[ea][fa][fb][fc][jc][fd][id][ge]C[97. Where can black play to make use of white's defect?]
+;B[db])
+(;AW[da][ea][eb][fc][gc][gd]AB[ca][db][ec][dd][fd][fe][cf]C[98. How should black fix his defect?]
+;B[fb])
+(;AW[ba][bb][gb][bc][cc][gc][dd][ed][fd]AB[ca][cb][db][fb][dc][ec]C[99. Black to live.]
+;B[ea])
+(;AW[ab][bb][cb][db][eb][fb][cc][gc][gd][fe][ge][bf][cf][df][ef]AB[ac][bc][dc][ec][fc][ad][cd][fd][be][ce][de]C[100. Black to live.]
+;B[ee])
+(;AW[ea][ia][db][ib][dc][hc][dd][ed][hd][fe][ge][he]AB[ga][ha][fb][hb][ec][gc][fd][gd]C[101. Black to live.]
+;B[eb])
+(;AW[cb][eb][fb][bc][dc][fc][bd][cd][dd][ed]AB[ba][ca][da][ea][fa][ab][gb][ac][gc][ad][gd][be][ce][de][ee][fe]C[102. Black to kill.]
+;B[db])
+(;AW[ea][ga][db][fb][cc][ec][cd][dd]AB[bb][cb][gb][hb][bc][gc][bd][gd][ce][de][ee][fe]C[103. Black to kill.]
+;B[ed])
+(;AW[ca][ea][fa][ha][cb][db][fb][hb][gc][hc]AB[ia][bb][ib][bc][cc][dc][ec][ic][fd][gd][hd][id]C[104. Black to kill.]
+;B[eb])
+(;AW[ba][fa][ga][bb][hb][bc][fc][gc][hc][bd][ed][ce][ee][cf][df]AB[ca][cb][db][fb][gb][cc][ec][cd][dd][de]C[105. Black to live.]
+;B[ea])
+(;AW[ba][ga][bb][eb][gb][bc][fc][bd][fd][be][ce][fe][df][ef][ff]AB[ca][da][ea][cb][fb][cc][dc][ec][cd][ed][de][ee]C[106. Black to live.]
+;B[fa])
+(;AW[ba][fa][bb][fb][bc][dc][fc][bd][fd][be][ee][fe][cf][df]AB[ca][ea][cb][eb][cc][ec][cd][ed][ce][de]C[107. Black to live.]
+;B[db])
+(;AW[ca][cb][ib][jb][cc][dc][ec][fc][gc][hc]AB[da][fa][ia][db][eb][fb][gb][hb]C[108. Black to live.]
+;B[ha])
+(;AW[bb][hb][bc][cc][ec][gc][hc][dd][fd][de][fe][ef]AB[ca][ga][cb][db][fb][gb][dc][fc][ed]C[109. Black to live.]
+;B[ea])
+(;AW[ab][cb][db][eb][fb][bc][fc][bd][cd][dd][ed]AB[ba][ca][da][ea][fa][bb][gb][gc][gd][be][ce][de][ee][fe]C[110a. Black to kill]
+;B[dc])
+(;AW[ca][ea][cb][fb][gb][dc][ec]AB[ba][ga][bb][hb][bc][gc][hc][cd][dd][ed][fd]C[110b. Black to kill.]
+;B[db])
+(;AW[bb][hb][bc][ec][fc][gc][hc][bd][cd][dd]AB[cb][eb][fb][gb][cc][dc]C[111. Black to live.]
+;B[da])
+(;AW[ba][ea][bb][db][hb][bc][ec][fc][gc][hc][bd][dd][ce][ee]AB[fa][cb][eb][fb][cc][dc]C[112. Black to live.]
+;B[ca])
+(;AW[ba][ca][ab][db][eb][fb][cc][bd][dd][be][ce][de]AB[bb][cb][bc][dc][ec][ed][ae][ee][bf][cf][df]C[113. Black to play.]
+;B[cd])
+(;AW[eb][fc][gc][ed][ee]AB[db][fb][cc][ec][dd][cf]C[114. Black to play.]
+(;B[ea]))
+(;AW[ga][ia][ka][db][hb][ib][jb][ec][gc][ed][gd][fe]AB[fa][la][eb][fb][gb][kb][fc][hc][ic][jc][fd]C[115. Black to play.]
+;B[ha])
+(;AW[ba][fa][bb][eb][gb][cc][fc][gc][bd][cd][hd][ce][he][cf][df][ef][ff][gf]AB[ca][ea][cb][db][bc][dc][ec][dd][fd][de][ee][fe]TR[eb]C[116. White just captured. Black to play.]
+;B[ab])
+(;AW[dc][ce][ck][kk]AB[gc][ic][kc][ke]C[117. Who has the better game?]
+;C[White])
+(;AW[dd][cj][kk]AB[jc][ej][jj]C[118. How whould black play?]
+;B[kj]TR[jk]C[Or at the marked point.])
+(;AW[ic][jc][bd][cd][fd][gd][kd][ae][de][fe][he][je][ke][le][bf][df][ef][ff][hf][if][jf][kf][lf][mf][bg][cg][fg][gg][kg][lg][ah][bh][hh][li][aj][dj][ej][hj][kj][lj][mj][ak][bk][ck][dk][fk][gk][hk][ik][jk][lk][cl][kl]AB[eb][jb][ac][bc][cc][dc][fc][gc][hc][kc][lc][ad][dd][ed][hd][id][jd][ld][md][ee][ie][me][cf][dg][eg][hg][ig][jg][mg][ch][fh][gh][jh][kh][lh][mh][ai][bi][ci][di][ei][fi][hi][ii][ki][mi][bj][cj][fj][gj][ij][jj][bl][ll]C[119. Who wins?]
+;C[Jigo])
+(;AW[fb][gb][hb][hc][jc][hd][kd][ge][ff][gf][lf][fg][mg][ah][gh][hh][kh][lh][ai][bi][ci][di][ei][fi][gi][ii][ji][ki][ej][ij][bk][dk][fk][cl][bm]AB[db][eb][dc][fc][gc][ed][gd][ce][fe][bf][ef][ag][eg][bh][ch][dh][mh][li][mi][fj][gj][hj][jj][kj][lj][ek][hk][ik][kk][dl][el][fl][em]C[120. Where are the remaining points?]
+;TR[fa][eh]C[At the triangles.]))
+(;AW[db][cc][ec][fc][gc][cd]AB[eb][dc][dd][ed][df]N[del]
+;W[cb]))
