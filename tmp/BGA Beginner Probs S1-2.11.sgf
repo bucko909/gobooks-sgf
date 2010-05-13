@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]
+
+
+
+
+
+
+
+
+
+
+
+AW[ca][ga][ia][cb][ib][cc][hc][ic][hd][ce][hf][hg]AB[ea][ha][db][eb][fb][gb][hb]LB[ai:1][bi:2][ci:3][di:4][ei:5][fi:6][gi:7][hi:8][ii:9]C[1.2.6. How many liberties does the black group have?]
+;B[fi]LB[da:1][fa:6][dc:2][ec:3][fc:4][gc:5]C[Correct! The liberties are numbered.])

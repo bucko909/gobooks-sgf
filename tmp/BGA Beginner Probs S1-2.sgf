@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]
+(;AW[fd]AB[fc][ed][fe]C[1.1.1. Black to play and take off a White stone.]
+;B[gd]C[Correct!])
+(;AW[ci]AB[bi][di]C[1.1.2. Black to play and take off a White stone.]
+;B[ch]C[Correct!])
+(;AW[aa][ca][ec]AB[ba][ea][bb][db][eb]C[1.1.3. Black to play and take off a White stone.]
+;B[ab]C[Correct!])
+(;AW[fa][ed][fe][ef]AB[da][fb][fc][fd][de][ee][ff]C[1.1.4. Black to play and take off a White stone.]
+;B[ge]C[Correct!])
+(;AW[gb][fd][ff][if][hi]AB[ec][gc][fe][ge][he][ie][gf][gg][gh][hh][ii]C[1.1.5. Black to play and take off a White stone.]
+;B[gi]C[Correct!])
+(;AW[ca][eb][ib][cc][hc][bd][fd][de][cf][gf][bg][ig][ii]AB[bb][cb][fb][dc][ec][ic][dd][gd][hd][id][ee][fe][df][ff][cg][fg][gg][hg][bh][eh]C[1.1.6. Black to play and take off a White stone.]
+;B[ce]C[Correct!])
+(;AW[dc][ec][dd][de][eg][fg][gg]AB[ed][fd][ee][bf][cf][df][ef][bg]LB[aa:A][ba:B]C[1.2.1. Are all of the black stones connected together? Play at 'a' if they are, and play at 'b' if they aren't.]
+;B[aa]C[Correct!])
+(;AW[bb][cb][ee][fe][ff][fg][fh][fi]AB[ed][fd][gd][de][df][dg]LB[aa:A][ba:B]C[1.2.2. Are all of the black stones connected together? Play at 'a' if they are, and play at 'b' if they aren't.]
+;B[ba]TR[dd]C[Correct! White can cut the stones apart by playing at the marked spot.])
+(;AW[ea][fa][ga][ha][ia][ab][bb][cb][db][eb][ac][gc][hc][ad][fd][hd][ae][ce][fe][ge][he][af][cf][df][ef][ff][ag][dg][fg][ah][eh][fh]AB[fb][gb][hb][bc][cc][dc][ec][fc][ic][bd][id][be][ie][bf][hf][if][bg][hg][bh][ch][dh][hh][bi][di][ei][fi][gi][hi]LB[aa:A][ba:B]C[1.2.3. Are all of the black stones connected together? Play at 'a' if they are, and play at 'b' if they aren't.]
+;B[aa]C[Correct! Even though there is a gap at the triangle, the stones are connected on the other side of the board.])
+(;AB[ff][gf][gg]LB[aa:1][ba:2][ca:3][da:4][ea:5][fa:6][ga:7][ha:8][ia:9]C[1.2.4. How many liberties does the black group have?]
+;B[ga]LB[fe:1][ge:2][ef:7][hf:3][fg:6][hg:4][gh:5]C[Correct! The liberties are numbered.])
+(;AW[eb][ec][cd][ed][fd][gd][hd][ce][cf][cg][ch]AB[ba][ca][da][db][dc][dd][de][ee]LB[ia:1][ib:2][ic:3][id:4][ie:5][if:6][ig:7][ih:8][ii:9]C[1.2.5. How many liberties does the black group have?]
+;B[ih]LB[aa:1][ea:8][bb:2][cb:3][cc:4][fe:7][df:5][ef:6]C[Correct! The liberties are numbered.])
+(;AW[ca][ga][ia][cb][ib][cc][hc][ic][hd][ce][hf][hg]AB[ea][ha][db][eb][fb][gb][hb]LB[ai:1][bi:2][ci:3][di:4][ei:5][fi:6][gi:7][hi:8][ii:9]C[1.2.6. How many liberties does the black group have?]
+;B[fi]LB[da:1][fa:6][dc:2][ec:3][fc:4][gc:5]C[Correct! The liberties are numbered.]))

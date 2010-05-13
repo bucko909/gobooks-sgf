@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]
+
+
+
+
+
+
+
+AW[bb][cb][ee][fe][ff][fg][fh][fi]AB[ed][fd][gd][de][df][dg]LB[aa:A][ba:B]C[1.2.2. Are all of the black stones connected together? Play at 'a' if they are, and play at 'b' if they aren't.]
+;B[ba]TR[dd]C[Correct! White can cut the stones apart by playing at the marked spot.]
+)

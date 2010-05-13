@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[White]PB[Black]C[Black to live.]
+(;B[]
+;W[]
+(;AW[ba][fa][bb][fb][bc][fc][cd][fd][ce][de][ee]AB[ca][ea][cb][db][eb][cc][ec][dd]C[Black to live.]
+;B[ed])
+(;AW[da][ea][fa][ga][bb][cb][hb][bc][hc][bd][hd][ce][de][ee][fe][ge]AB[db][eb][fb][cc][ec][gc][cd][ed][fd]C[Black to live.]
+;B[dd])
+(;AW[ba][ia][bb][gb][hb][ib][bc][cc][dc][gc][ed][fd]AB[ca][ea][ga][ha][cb][db][fb][ec]C[Black to live.]
+;B[fc])
+(;AW[ba][ga][ha][bb][hb][cc][hc][cd][dd][ed][fd][gd]AB[ca][da][fa][cb][eb][gb][dc][gc]C[Black to live.]
+;B[ec])
+(;AW[ca][ga][bb][cb][gb][bc][dc][gc][bd][fd][be][fe][cf][df][ef]AB[da][ea][db][fb][cc][ec][fc][ed][ee]C[Black to live.]
+;B[cd])
+(;AW[ba][ca][ab][db][eb][fb][ac][cc][gc][ad][gd][ae][fe][ge][bf][cf][df][ef]AB[bb][cb][bc][dc][ec][fc][dd][fd][ce][de][ee]C[Black to live.]
+;B[bd])
+(;AW[ba][ca][da][ea][fa][ab][gb][ac][gc][bd][fd][be][de][fe][bf][ef][ff][cg][dg]AB[bb][cb][db][eb][fb][bc][fc][cd][ed][ee][df]C[Black to live.]
+;B[ce])
+(;AW[ba][ha][bb][hb][bc][cc][ec][gc][hc][dd][fd][ce][ee][ge]AB[ca][ga][cb][db][fb][gb][dc][fc]C[Black to live.]
+;B[ea])
+(;AW[db][eb][ac][ec][ad][ed][ae][be][ce][de]AB[bb][cb][bc][dc][bd][cd][dd]C[Black to live.]
+;B[ab])
+(;AW[fa][bb][fb][gb][bc][gc][bd][cd][gd][de][ee][fe]AB[ea][eb][cc][dc][fc][dd][ed][fd]C[Black to live.]
+;B[cb])
+(;AW[ba][bb][cb][hb][bc][hc][bd][fd][gd][ce][de][ee]AB[ca][da][db][cc][ec][cd][dd][ed]C[Black to live.]
+;B[fb])
+(;AW[da][ea][fa][bb][cb][gb][bc][gc][ad][fd][ae][fe][bf][cf][df][ef]AB[db][eb][fb][cc][fc][bd][ed][ce][de][ee]C[Black to live.]
+;B[dc])
+(;AW[ca][da][ab][bb][eb][fb][ac][ec][gc][ad][gd][ae][ee][fe][bf][ef][bg][cg][dg]AB[cb][db][bc][dc][fc][bd][ed][fd][be][de][cf][df]C[Black to live.]
+;B[cd])
+(;AW[ga][ab][gb][ac][bc][ec][fc][gc][cd][dd]AB[fa][bb][cb][eb][fb][cc][dc]C[Black to live.]
+;B[da])
+(;AW[ba][ca][fa][bb][gb][hb][bc][dc][hc][bd][cd][hd][de][ee][fe][ge]AB[da][cb][db][fb][cc][gc][dd][ed][fd][gd]C[Black to live.]
+(;B[ec]))
+(;AW[ba][ca][da][ab][eb][fb][ac][dc][gc][ad][gd][be][ce][ge][df][ef][ff]AB[cb][db][bc][ec][fc][dd][fd][de][ee]C[Black to live.]
+;B[cd])
+(;AW[ba][fa][bb][fb][ac][fc][ad][bd][cd][dd][ed]AB[ca][da][cb][eb][bc][cc][dc][ec]C[Black to live.]
+;B[ab])
+(;AW[ba][ca][da][ea][ab][fb][gb][ac][ec][gc][ad][gd][be][ee][fe][bf][cf][df]AB[bb][db][eb][bc][cc][fc][bd][dd][ed][ce][de]C[Black to live.]
+;B[fd])
+(;AW[bb][cb][db][eb][fb][gb][hb][ic][cd][dd][fd][gd][id][ee][ie][bf][cf][df][ff][gf][hf]AB[cc][dc][ec][fc][gc][hc][bd][hd][be][ce][de][ge][he]C[Black to live.]
+;B[fe])
+(;AW[ca][da][ea][fa][ga][bb][hb][bc][dc][hc][bd][dd][gd][be][ee][ge][cf][ff][dg][eg][gg]AB[cb][db][eb][fb][gb][cc][ec][gc][cd][ce][de][df][ef]C[Black to live.]
+;B[fd])
+(;AW[ba][ha][bb][fb][hb][bc][cc][dc][ec][hc][fd][hd][ee]AB[ca][ea][cb][db][eb][gb][fc][gc]C[Black to live.]
+;B[ga])
+(;AW[ba][ca][da][ea][fa][ga][ha][ab][ib][ac][ec][fc][ic][ad][dd][hd][be][ce][de][ee][he][ff][gf]AB[bb][cb][db][eb][fb][gb][hb][bc][dc][bd][cd][ed][gd][fe][ge]C[Black to live.]
+;B[gc])
+(;AW[ba][ca][da][ea][ga][bb][fb][ac][ec][gc][ad][gd][be][ce][de][he][df][hf][eg][fg][gg]AB[cb][db][eb][bc][bd][cd][dd][ed][fd][ee][ge][ef][ff]C[Black to live.]
+;B[dc])
+(;AW[ha][bb][db][ib][dc][ec][ic][dd][hd][de][he][ef][ff][gf]AB[eb][gb][hb][fc][gc][ed][gd][ee][fe][ge]C[Black to live.]
+;B[fa])
+(;AW[ba][ca][da][ea][ab][fb][ac][cc][fc][ad][dd][fd][ae][be][ee][cf][df]AB[bb][cb][db][bc][ec][bd][cd][ed][de]C[Black to live.]
+;B[ce])
+(;AW[ca][da][bb][eb][ac][cc][ec][ad][ed][ae][ce][ee][af][ef][bg][cg][dg]AB[cb][db][bc][dc][dd][be][de][bf][cf]C[Black to live.]
+;B[bd])
+(;AW[cb][bc][dc][ec][bd][cd][ed][ce][de]AB[ba][ca][ab][db][eb][ac][fc][ad][fd][be][fe][bf][cf][df][ef]C[Black to kill.]
+;B[bb])
+(;AW[fa][bb][cb][eb][fb][bc][dc][fc][cd][dd][ed]AB[ba][ca][da][ga][ab][gb][ac][gc][ad][fd][gd][be][ce][de][ee]C[Black to kill.]
+;B[db])
+(;AW[db][fb][gb][bc][cc][ec][gc][dd][fd][ee][fe]AB[ca][da][ea][fa][ha][ab][bb][hb][ac][hc][bd][cd][gd][ce][ge][df][ef][ff]C[Black to kill.]
+;B[eb])
+(;AW[da][ea][eb][dc][fc][bd][cd][ed][be][de][bf][cf]AB[ca][ab][cb][db][gb][bc][gc][ad][gd][ae][ee][fe][af][df][bg][cg][dg]C[Black to kill.]
+;B[cc]))
+)

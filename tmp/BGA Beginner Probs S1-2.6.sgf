@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]
+
+
+
+
+
+
+AW[dc][ec][dd][de][eg][fg][gg]AB[ed][fd][ee][bf][cf][df][ef][bg]LB[aa:A][ba:B]C[1.2.1. Are all of the black stones connected together? Play at 'a' if they are, and play at 'b' if they aren't.]
+;B[aa]C[Correct!]
+)

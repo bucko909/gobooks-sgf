@@ -1,0 +1,47 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[White]PB[Black]
+;B[]
+;W[]
+(;AW[ca][ga][bb][gb][bc][fc][bd][cd][fd][de][ee][fe]AB[ea][fa][db][fb][cc][ec][dd][ed]C[Black to live.]
+;B[cb])
+(;AW[dc][fc][gc][cd][ed][gd][ce][de][ee][fe]AB[cb][db][eb][fb][gb][bc][hc][bd][hd][be][he][cf][df][ef][ff][gf]C[Black to kill.]
+;B[ec])
+(;AW[ea][ga][db][fb][cc][ec][cd][dd]AB[bb][cb][gb][hb][bc][gc][bd][gd][ce][de][ee][fe]C[Black to kill.]
+;B[ed])
+(;AW[ca][ea][fa][ha][cb][db][fb][hb][gc][hc]AB[ia][bb][ib][bc][cc][dc][ec][ic][fd][gd][hd][id]C[Black to kill.]
+;B[eb])
+(;AW[ba][fa][ga][bb][hb][bc][fc][gc][hc][bd][ed][ce][ee][cf][df]AB[ca][cb][db][fb][gb][cc][ec][cd][dd][de]C[Black to live.]
+;B[ea])
+(;AW[ba][ga][bb][eb][gb][bc][fc][bd][fd][be][ce][fe][df][ef][ff]AB[ca][da][ea][cb][fb][cc][dc][ec][cd][ed][de][ee]C[Black to live.]
+;B[fa])
+(;AW[ba][fa][bb][fb][bc][dc][fc][bd][fd][be][ee][fe][cf][df]AB[ca][ea][cb][eb][cc][ec][cd][ed][ce][de]C[Black to live.]
+;B[db])
+(;AW[ca][ea][ha][cb][db][eb][fb][gb]AB[ba][bb][hb][ib][bc][cc][dc][ec][fc][gc]C[Black to kill.]
+;B[ga])
+(;AW[bb][hb][bc][cc][ec][gc][hc][dd][fd][de][fe]AB[ca][ga][cb][db][fb][gb][dc][fc][ed]C[Black to live.]
+;B[ea])
+(;AW[ca][db][eb][cc][ec][cd][ed][ce][ee][cf][df]AB[bb][cb][fb][bc][fc][bd][fd][be][fe][bf][ff][cg][dg][eg]C[Black to kill.]
+;B[dd])
+(;AW[ca][ea][cb][fb][gb][dc][ec]AB[ba][ga][bb][hb][bc][gc][hc][cd][dd][ed][fd]C[Black to kill.]
+;B[db])
+(;AW[bb][hb][bc][ec][fc][gc][hc][bd][cd][dd]AB[cb][eb][fb][gb][cc][dc]C[Black to live.]
+;B[da])
+(;AW[ba][ea][bb][db][hb][bc][ec][fc][gc][hc][bd][dd][ce][ee]AB[ca][fa][cb][eb][fb][cc][dc]C[Is black alive?]
+;B[da]C[Yes; he can play this move any time.])
+(;AW[fa][cb][db][gb][cc][ec][gc][cd][dd][fd]AB[ca][bb][eb][fb][bc][fc][bd][ed][ce][de][ee]TR[fa]C[How should black answer the marked stone?]
+;B[dc])
+(;AW[eb][fc][gc][ed][ee]AB[db][fb][cc][ec][dd][cf]C[What is black's best move?]
+;B[ea])
+(;AW[ea][ga][ia][bb][fb][gb][hb][cc][ec][cd][ed][de]AB[da][ja][cb][db][eb][ib][dc][fc][gc][hc][dd]TR[bb]C[How should black answer the marked stone?]
+;B[fa])
+(;AW[ba][fa][bb][eb][gb][cc][fc][gc][bd][cd][hd][ce][he][cf][df][ef][ff][gf]AB[ca][ea][cb][db][bc][dc][ec][dd][fd][de][ee][fe]TR[eb]C[How should black respond when white takes the ko at the marked stone?]
+;B[ac]TR[ab]C[Black can also play the marked stone, but this way is worth one extra threat.])
+(;AW[dc][ce][ck][kk]AB[gc][ic][kc][ke]LB[dc:2][gc:7][ic:3][kc:1][ce:8][ke:5][ck:4][kk:6]C[Who do you suppose has the better game?]
+;B[]C[The answer is white, since she has 3 corners.])
+(;AW[dd][cj][kk]AB[jc][ej][jj]TR[kk]C[Where should black respond to the white stone?]
+;B[kj]LB[jk:A]C[Black may also play at A.])
+(;AW[ic][jc][bd][cd][fd][gd][kd][ae][de][fe][he][je][ke][le][bf][df][ef][ff][hf][if][jf][kf][lf][mf][bg][cg][fg][gg][kg][lg][ah][bh][hh][li][aj][dj][ej][hj][kj][lj][mj][ak][bk][ck][dk][fk][gk][hk][ik][jk][lk][cl][kl]AB[eb][jb][ac][bc][cc][dc][fc][gc][hc][kc][lc][ad][dd][ed][hd][id][jd][ld][md][ee][ie][me][cf][dg][eg][hg][ig][jg][mg][ch][fh][gh][jh][kh][lh][mh][ai][bi][ci][di][ei][fi][hi][ii][ki][mi][bj][cj][fj][gj][ij][jj][bl][ll]C[Both sides have taken 3 prisoners and have 3 stones to remove. Who has won?]
+;C[The game is a draw.])
+(;AW[fb][gb][hb][hc][jc][hd][kd][ge][ff][gf][lf][fg][mg][ah][gh][hh][kh][lh][ai][bi][ci][di][ei][fi][gi][ii][ji][ki][ej][ij][bk][dk][fk][cl][bm]AB[db][eb][dc][fc][gc][ed][gd][ce][fe][bf][ef][ag][eg][bh][ch][dh][mh][li][mi][fj][gj][hj][jj][kj][lj][ek][hk][ik][kk][dl][el][fl][em]C[Where are the profitable moves?]
+;AW[ea][fa]AB[da][eh]TR[ea][eh]C[The moves are marked.]))

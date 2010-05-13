@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[White]PB[Black]
+
+
+
+
+
+
+
+
+AW[ea][fa][ga][ha][ia][ab][bb][cb][db][eb][ac][gc][hc][ad][fd][hd][ae][ce][fe][ge][he][af][cf][df][ef][ff][ag][dg][fg][ah][eh][fh]AB[fb][gb][hb][bc][cc][dc][ec][fc][ic][bd][id][be][ie][bf][hf][if][bg][hg][bh][ch][dh][hh][bi][di][ei][fi][gi][hi]LB[aa:A][ba:B]C[1.2.3. Are all of the black stones connected together? Play at 'a' if they are, and play at 'b' if they aren't.]
+;B[aa]C[Correct! Even though there is a gap at the triangle, the stones are connected on the other side of the board.]
+)
